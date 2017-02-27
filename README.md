@@ -1,4 +1,4 @@
-# billmanager
+# HUB
 
 > An electron-vue project
 
