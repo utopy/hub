@@ -1,0 +1,20 @@
+{
+  "name": "billmanager",
+  "version": "0.0.0",
+  "description": "An electron-vue project",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "electron-storage": "^1.0.7",
+    "element-ui": "^1.1.6",
+    "scandirectory": "^3.0.1",
+    "sequelize": "^3.30.2",
+    "simple-line-icons": "^2.4.1",
+    "vue": "^2.1.10",
+    "vue-electron": "^1.0.6",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.1.2",
+    "vuex": "^2.1.1"
+  },
+  "devDependencies": {},
+  "author": "utopy <sasha.petra96@gmail.com>"
+}
